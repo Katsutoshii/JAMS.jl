@@ -14,7 +14,6 @@ function load_annotation(;
     @test loaded_annotation.namespace == "pitch_contour"
 end
 
-
 function load_annotations(;
     filename::String="data/annotations.jams")
     loaded_annotations::JAMS.Annotations = JAMS.load(filename)
