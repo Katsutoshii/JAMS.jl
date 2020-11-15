@@ -1,0 +1,66 @@
+{
+  "annotations": [
+    {
+      "annotation_metadata": {
+        "curator": {
+          "name": "",
+          "email": ""
+        },
+        "annotator": {},
+        "version": "",
+        "corpus": "",
+        "annotation_tools": "",
+        "annotation_rules": "",
+        "validation": "",
+        "data_source": "0"
+      },
+      "namespace": "pitch_contour",
+      "data": {
+        "time": [
+          7.463079364999999,
+          7.468884353000021,
+          7.474689342000033
+        ],
+        "duration": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "value": [
+          {
+            "voiced": true,
+            "index": 0,
+            "frequency": 106.492
+          },
+          {
+            "voiced": true,
+            "index": 0,
+            "frequency": 105.43
+          },
+          {
+            "voiced": true,
+            "index": 0,
+            "frequency": 104.821
+          }
+        ],
+        "confidence": [
+          null,
+          null,
+          null
+        ]
+      },
+      "sandbox": {},
+      "time": 543.742,
+      "duration": 22.32439999999997
+    }
+  ],
+  "file_metadata": {
+    "title": "00_BN1-129-Eb_comp",
+    "artist": "",
+    "release": "",
+    "duration": 22.32439999999997,
+    "identifiers": {},
+    "jams_version": "0.3.1"
+  },
+  "sandbox": {}
+}
