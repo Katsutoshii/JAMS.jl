@@ -1,5 +1,7 @@
 # JAMS.jl
 
+[![Build Status](https://travis-ci.com/Katsutoshii/JAMS.jl.svg?branch=master)](https://travis-ci.com/Katsutoshii/JAMS.jl)
+
 _Julia implementation of JAMS, JSON Annotated Music Specification for Reproducible MIR Research._
 
 ## Installation
