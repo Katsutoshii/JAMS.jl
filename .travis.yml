@@ -4,5 +4,5 @@ os:
   - osx
   - windows
 julia:
-  - release
+  - 1.5
   - nightly
